@@ -4,7 +4,5 @@ Check out my portfolio! (coming soon)
 
 Highlighted Skills:
 <p align="left">
-  <a href="https://github.com/sebilune">
     <img src="https://skillicons.dev/icons?i=python,ts,java,c,cpp,cs,r,latex,aws,docker,jenkins,mongodb,react,tailwind,nodejs,next,vercel,vite,npm,linux,postgres,vscode,vim,git,github&perline=10" />
-  </a>
 </p>
