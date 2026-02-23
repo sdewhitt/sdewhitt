@@ -2,7 +2,7 @@ Computer Science Junior @ Purdue University, previous SWE Intern at  <img alt="C
 
 Check out my [portfolio](https://www.sdewhitt.com/)!
 
-![cat](https://media1.tenor.com/m/Ax7JUhhhMt4AAAAC/angry-typing-kitty.gif)
+![cat](https://media1.tenor.com/m/nxKfohkvYrIAAAAC/computer-cat.gif)
 
 <!-- <p align="left">
     <a href="https://www.sdewhitt.com/#about" target="_blank">
