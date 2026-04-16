@@ -1,5 +1,7 @@
 Computer Science Junior @ Purdue University, previous SWE Intern at  <img alt="Chewy" src="https://homeforgooddogs.org/wp-content/uploads/2020/10/chewy.png" width="40"/>
 
+Incoming at   <img alt="AWS" src="https://www.pngall.com/wp-content/uploads/13/AWS-Logo-PNG-Pic.png" width="23"/>
+
 Check out my [portfolio](https://www.sdewhitt.com/)!
 
 ![cat](https://media1.tenor.com/m/nxKfohkvYrIAAAAC/computer-cat.gif)
