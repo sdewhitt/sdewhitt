@@ -1,6 +1,6 @@
 Computer Science @ Purdue University, previous SWE Intern at  <img alt="Chewy" src="https://homeforgooddogs.org/wp-content/uploads/2020/10/chewy.png" width="40"/>
 
-SDE Intern at   <img alt="AWS" src="https://www.pngall.com/wp-content/uploads/13/AWS-Logo-PNG-Pic.png" width="23"/> on the AWS [Amazon MQ](https://aws.amazon.com/amazon-mq/) team
+SDE Intern at   <img alt="AWS" src="https://www.pngall.com/wp-content/uploads/13/AWS-Logo-PNG-Pic.png" width="23"/> on the [Amazon MQ](https://aws.amazon.com/amazon-mq/) team
 
 Check out my [portfolio](https://www.sdewhitt.com/)!
 
